@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://kai-yue.github.io/website/</link>
+    <link>https://kaiyue.netlify.app/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kai-yue.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biography</title>
-      <link>https://kai-yue.github.io/website/2020/09/biography/</link>
+      <link>https://kaiyue.netlify.app/2020/09/biography/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kai-yue.github.io/website/2020/09/biography/</guid>
+      <guid>https://kaiyue.netlify.app/2020/09/biography/</guid>
       <description>&lt;p&gt;I am Kai Yue, a Ph.D. candidate majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a BEng in Electronic Information Engineering at University of Science and Technology of China.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://kai-yue.github.io/website/2020/09/publications/</link>
+      <link>https://kaiyue.netlify.app/2020/09/publications/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kai-yue.github.io/website/2020/09/publications/</guid>
+      <guid>https://kaiyue.netlify.app/2020/09/publications/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
   &lt;p&gt;News&lt;/p&gt;
 &lt;/div&gt;</description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>About Me</title>
-      <link>https://kai-yue.github.io/website/honor/</link>
+      <link>https://kaiyue.netlify.app/honor/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kai-yue.github.io/website/honor/</guid>
+      <guid>https://kaiyue.netlify.app/honor/</guid>
       <description>Education   BEng in Software Engineering, 2012
 University of Science and Technology of China (USTC)
   Honor  2020.07 Graduate Merit Award, NSCU 2020.06 Honours Degree Certificate, USTC 2019.01 IYLFS 2019 Competition Third Place 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.07-2019.06 Undergraduate Research Assistant
@@ -43,10 +43,10 @@ Center for Vision, Cognition, Learning, and Autonomy, UCLA</description>
     
     <item>
       <title>Demonstration Gallery</title>
-      <link>https://kai-yue.github.io/website/2020/09/demonstration-gallery/</link>
+      <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kai-yue.github.io/website/2020/09/demonstration-gallery/</guid>
+      <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
       <description>&lt;p&gt;Video demo under construction.&lt;/p&gt;</description>
     </item>
     
