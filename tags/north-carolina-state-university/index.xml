@@ -6,7 +6,11 @@
     <description>Recent content in North Carolina State University on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/tags/north-carolina-state-university/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kaiyue.netlify.app/tags/north-carolina-state-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Demonstration Gallery</title>
       <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>

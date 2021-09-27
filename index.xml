@@ -6,36 +6,40 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/2020/09/biography/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2020/09/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a B.Eng. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About Me</title>
       <link>https://kaiyue.netlify.app/honor/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/honor/</guid>
       <description>Education   B.Eng. in Electronic and Information Engineering, 2016-2020
 University of Science and Technology of China (USTC)
-  Honor  2020.07 Graduate Merit Award, NSCU 2020.06 Honours Degree Certificate, USTC 2019.01 IYLFS 2019 Competition Third Place 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.07-2019.06 Undergraduate Research Assistant
+  Honor  2020.07 Graduate Merit Award, NS State 2020.06 Honours Degree Certificate, USTC 2019.01 IYLFS 2019 Competition Third Place 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.07-2019.06 Undergraduate Research Assistant
 Microsoft MCC Lab, USTC
   2019.07-2019.09 Summer Internship
 Center for Vision, Cognition, Learning, and Autonomy, UCLA</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://kaiyue.netlify.app/2020/09/publications/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Biography</title>
+      <link>https://kaiyue.netlify.app/2021/09/biography/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kaiyue.netlify.app/2020/09/publications/</guid>
+      <guid>https://kaiyue.netlify.app/2021/09/biography/</guid>
+      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a B.Eng. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kaiyue.netlify.app/2021/09/publications/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2021/09/publications/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
   &lt;p&gt;News&lt;/p&gt;
 &lt;/div&gt;</description>
