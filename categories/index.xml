@@ -6,7 +6,7 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kaiyue.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Biography</title>
       <link>https://kaiyue.netlify.app/categories/biography/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/categories/biography/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Publications</title>
       <link>https://kaiyue.netlify.app/categories/publications/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://kaiyue.netlify.app/categories/python/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/categories/python/</guid>
       <description></description>
     </item>
     

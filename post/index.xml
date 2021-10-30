@@ -6,7 +6,7 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,16 @@
     <item>
       <title>Biography</title>
       <link>https://kaiyue.netlify.app/2021/10/biography/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/2021/10/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a B.Eng. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://kaiyue.netlify.app/2021/10/research/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/2021/10/research/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
@@ -55,6 +55,19 @@
     paper
     &lt;/a&gt;
 &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Activity</title>
+      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Analyze investment strategies with Python in 10 minutes&lt;/li&gt;
+&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
+&lt;li&gt;More&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     

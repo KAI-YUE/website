@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on </title>
+    <link>https://kaiyue.netlify.app/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kaiyue.netlify.app/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activity</title>
+      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Analyze investment strategies with Python in 10 minutes&lt;/li&gt;
+&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
+&lt;li&gt;More&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Demonstration Gallery</title>
+      <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
+      <description>&lt;p&gt;Video demo under construction.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

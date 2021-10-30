@@ -14,16 +14,16 @@
     <item>
       <title>Biography</title>
       <link>https://kaiyue.netlify.app/2021/10/biography/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/2021/10/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a B.Eng. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://kaiyue.netlify.app/2021/10/research/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/2021/10/research/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
@@ -59,16 +59,40 @@
     </item>
     
     <item>
+      <title>Activity</title>
+      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Analyze investment strategies with Python in 10 minutes&lt;/li&gt;
+&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
+&lt;li&gt;More&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analyze Investment Strategies</title>
+      <link>https://kaiyue.netlify.app/tutor/strategy/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/tutor/strategy/</guid>
+      <description>Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&amp;rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
+Any comments here about investing are scams. This is only a technical tutorial.
+ I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://kaiyue.netlify.app/honor/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/honor/</guid>
-      <description>Education   B.Eng. in Electronic and Information Engineering, 2016-2020
-University of Science and Technology of China (USTC)
-  PhD student 2021-current
-NC State University, Raleigh, NC 27695
-  Honor  2020.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.01 IYLFS 2019 Competition Third Place 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.07-2019.06 Undergraduate Research Assistant</description>
+      <description>Education   PhD student 2021-current
+NC State University, Raleigh, NC, USA
+  B.E. in Electronic and Information Engineering, 2016-2020
+University of Science and Technology of China (USTC), Hefei, China
+  Honor  2020.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.01 The Third Place, IYLFS 2019 Competition 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.</description>
     </item>
     
     <item>

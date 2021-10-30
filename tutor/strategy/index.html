@@ -8,25 +8,33 @@
 <meta name="generator" content="Hugo 0.68.3 with theme Tranquilpeak 0.4.8-BETA">
 <meta name="author" content="Kai Yue">
 <meta name="keywords" content="">
-<meta name="description" content="Contact kyue@ncsu.edu">
+<meta name="description" content="Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
+Any comments here about investing are scams. This is only a technical tutorial.
+ I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.">
 
 
-<meta property="og:description" content="Contact kyue@ncsu.edu">
+<meta property="og:description" content="Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
+Any comments here about investing are scams. This is only a technical tutorial.
+ I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Email">
-<meta name="twitter:title" content="Email">
-<meta property="og:url" content="https://kaiyue.netlify.app/email/">
-<meta property="twitter:url" content="https://kaiyue.netlify.app/email/">
+<meta property="og:title" content="Analyze Investment Strategies">
+<meta name="twitter:title" content="Analyze Investment Strategies">
+<meta property="og:url" content="https://kaiyue.netlify.app/tutor/strategy/">
+<meta property="twitter:url" content="https://kaiyue.netlify.app/tutor/strategy/">
 <meta property="og:site_name" content="">
-<meta property="og:description" content="Contact kyue@ncsu.edu">
-<meta name="twitter:description" content="Contact kyue@ncsu.edu">
+<meta property="og:description" content="Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
+Any comments here about investing are scams. This is only a technical tutorial.
+ I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.">
+<meta name="twitter:description" content="Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
+Any comments here about investing are scams. This is only a technical tutorial.
+ I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.">
 <meta property="og:locale" content="en-us">
 
   
-    <meta property="article:published_time" content="2020-09-13T00:00:00">
+    <meta property="article:published_time" content="2021-10-29T00:00:00">
   
   
-    <meta property="article:modified_time" content="2020-09-13T00:00:00">
+    <meta property="article:modified_time" content="2021-10-29T00:00:00">
   
   
   
@@ -41,6 +49,9 @@
 
 
 
+  <meta property="og:image" content="//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg">
+  <meta property="twitter:image" content="//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg">
+
 
 
 
@@ -49,14 +60,14 @@
   <meta property="twitter:image" content="https://www.gravatar.com/avatar/00fec6c6794803ba8eabdaa2b0f492a7?s=640">
 
 
-    <title>Email</title>
+    <title>Analyze Investment Strategies</title>
 
     <link rel="icon" href="https://kaiyue.netlify.app/favicon.png">
     
 
     
 
-    <link rel="canonical" href="https://kaiyue.netlify.app/email/">
+    <link rel="canonical" href="https://kaiyue.netlify.app/tutor/strategy/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -194,15 +205,15 @@
             <div class="post-header main-content-wrap text-center">
   
     <h1 class="post-title" itemprop="headline">
-      Email
+      Analyze Investment Strategies
     </h1>
   
   
   <div class="postShorten-meta post-meta">
     
-      <time itemprop="datePublished" datetime="2020-09-13T00:00:00Z">
+      <time itemprop="datePublished" datetime="2021-10-29T00:00:00Z">
         
-  September 13, 2020
+  October 29, 2021
 
       </time>
     
@@ -213,8 +224,101 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <h1 id="contact">Contact</h1>
-<p><a href="mailto:kyue@ncsu.edu">kyue@ncsu.edu</a></p>
+              <h1 id="introduction">Introduction</h1>
+<p>In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this <a href="https://www.youtube.com/watch?v=bBC-nXj3Ng4">introduction</a> helpful.</p>
+<div class="alert warning ">
+  <p>Any comments here about investing are scams. This is only a technical tutorial.</p>
+</div>
+<p>I will assume you already have some basic knowledge of Python, which is a  great tool for analyzing data. We will focus on the following question in this tutorial:</p>
+<blockquote>
+<ul>
+<li>If I began Bitcoin investment at its highest price, say, in April 2021, how much will I lose/gain with this naive fixed investment strategy?</li>
+</ul>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<h1 id="download-historical-data">Download Historical Data</h1>
+<p>First, we will download the historical data for Bitcoin. Again, we are <strong>not using it for predicting</strong> future prices, but for analyzing the investment strategy. You can download csv files from <a href="https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD">yahoo finance</a>.
+The chart looks like this:</p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Open</th>
+<th>High</th>
+<th>Low</th>
+<th>Close</th>
+<th>Volume</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021-04-10</td>
+<td>58253</td>
+<td>61276</td>
+<td>58038</td>
+<td>59793</td>
+<td>58238470525</td>
+</tr>
+<tr>
+<td>2021-04-11</td>
+<td>59846</td>
+<td>60790</td>
+<td>59289</td>
+<td>60204</td>
+<td>46280252580</td>
+</tr>
+</tbody>
+</table>
+<p><!-- raw HTML omitted --></p>
+<h1 id="read-data-in-python">Read Data in Python</h1>
+<p>Import related packages</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> numpy <span style="color:#f92672">as</span> np
+<span style="color:#f92672">import</span> pandas <span style="color:#f92672">as</span> pd
+<span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#f92672">as</span> plt
+</code></pre></div><p>Let&rsquo;s say we are interested in the <strong>date</strong> and the <strong>open price</strong> of Bitcoin. We can use these two keywords and read the two columns into numpy arrays.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">price_keyword <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Open&#34;</span>
+date_keyword <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Date&#34;</span>
+record_dir <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;BTC-USD.csv&#34;</span>
+record <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(record_dir)
+
+date <span style="color:#f92672">=</span> record[date_keyword]
+coin_price <span style="color:#f92672">=</span> record[price_keyword]
+dates <span style="color:#f92672">=</span> date<span style="color:#f92672">.</span>to_numpy()
+coin_prices <span style="color:#f92672">=</span> coin_price<span style="color:#f92672">.</span>to_numpy()
+</code></pre></div><p>Now visualize the data to make sure we are doing the right thing.
+I deliberately hide the dates because they are not very important.
+<img src="https://res.cloudinary.com/eric-kaiyue/image/upload/v1635600944/website/tutor/btc_gl5hme.png" alt="Example image"></p>
+<p>The code snippet looks like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">fig <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>figure(dpi<span style="color:#f92672">=</span><span style="color:#ae81ff">200</span>, figsize<span style="color:#f92672">=</span>(<span style="color:#ae81ff">10</span>,<span style="color:#ae81ff">6</span>))
+plt<span style="color:#f92672">.</span>subplots_adjust(left<span style="color:#f92672">=</span><span style="color:#ae81ff">0.092</span>, bottom<span style="color:#f92672">=</span><span style="color:#ae81ff">0.15</span>, right<span style="color:#f92672">=</span><span style="color:#ae81ff">0.99</span>, top<span style="color:#f92672">=</span><span style="color:#ae81ff">0.97</span>, wspace<span style="color:#f92672">=</span><span style="color:#ae81ff">0.1</span>, hspace<span style="color:#f92672">=</span><span style="color:#ae81ff">0.1</span>)
+ax <span style="color:#f92672">=</span> fig<span style="color:#f92672">.</span>gca()
+plot_step <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>
+ax<span style="color:#f92672">.</span>plot(dates[::plot_step], coin_prices[::plot_step])
+ax<span style="color:#f92672">.</span>tick_params(axis<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;x&#39;</span>, labelrotation<span style="color:#f92672">=</span><span style="color:#ae81ff">45</span>)
+ax<span style="color:#f92672">.</span>grid()
+</code></pre></div><h1 id="fixed-investment-strategy">Fixed Investment Strategy</h1>
+<p>At first glance, you are unfortunate to begin this investment at a relative high price. It seems like you don&rsquo;t gain much because of your <strong>bad luck</strong>.
+Now, let&rsquo;s consider a naive fixed investment strategy, where you invest a fixed amount of money periodically. The intuition behind this naive strategy is based on <a href="https://en.wikipedia.org/wiki/Occam%27s_razor">Occam&rsquo;s Razor</a> as the price is not predictable. so We only care about the interest rate, so the only hyperparameter here is the period. Let&rsquo;s say we invest $100 every month.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">invest_period <span style="color:#f92672">=</span> <span style="color:#ae81ff">30</span>      <span style="color:#75715e"># period</span>
+investment <span style="color:#f92672">=</span> <span style="color:#ae81ff">100</span>        <span style="color:#75715e"># periodic investment in dollars</span>
+capital <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+shares <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+
+<span style="color:#66d9ef">for</span> i <span style="color:#f92672">in</span> range(<span style="color:#ae81ff">0</span>, date<span style="color:#f92672">.</span>shape[<span style="color:#ae81ff">0</span>], invest_period):
+    shares <span style="color:#f92672">+=</span> investment<span style="color:#f92672">/</span>coin_prices[i]
+    capital <span style="color:#f92672">+=</span> investment
+
+profit <span style="color:#f92672">=</span> shares<span style="color:#f92672">*</span>coin_prices[<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>] <span style="color:#f92672">-</span> capital
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;-&#34;</span><span style="color:#f92672">*</span><span style="color:#ae81ff">50</span>)
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Invest ${:d} every {:.1f} months&#34;</span><span style="color:#f92672">.</span>format(investment, invest_period<span style="color:#f92672">/</span><span style="color:#ae81ff">30</span>))
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Captial: ${:.5f}</span><span style="color:#ae81ff">\t</span><span style="color:#e6db74"> Profit: ${:.5f} Interest Rate {:.3f}&#34;</span><span style="color:#f92672">.</span>format(capital, profit, profit<span style="color:#f92672">/</span>capital))
+</code></pre></div><p>The output is</p>
+<pre><code>Invest $100 every 1.0 months
+Captial: $700.00000	 Profit: $259.25737 Interest Rate 0.370
+</code></pre><p>Surprisingly, you will have an interest rate of about 37%! How about tweaking the hyperparameter, i.e., the period? Let&rsquo;s change it to 7. This time we even raise the interest rate to  41%!</p>
+<h1 id="advanced-variants">Advanced Variants</h1>
+<p>I will tell you that this naive strategy can be extended to some variants. Play with the code, you can even raise the interest rate to 70% or higher! What? You are not aware of how to do that? Leave the comments here or directly ask me via email!</p>
 
               
             </div>
@@ -238,7 +342,7 @@
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://kaiyue.netlify.app/honor/" data-tooltip="About Me">
+                <a class="post-action-btn btn btn--disabled">
               
                   <span class="hide-xs hide-sm text-small icon-mr">NEXT</span>
                   <i class="fa fa-angle-right"></i>
@@ -332,7 +436,7 @@
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://kaiyue.netlify.app/honor/" data-tooltip="About Me">
+                <a class="post-action-btn btn btn--disabled">
               
                   <span class="hide-xs hide-sm text-small icon-mr">NEXT</span>
                   <i class="fa fa-angle-right"></i>
@@ -458,9 +562,9 @@ $(document).ready(function() {
     
       <script>
         var disqus_config = function () {
-          this.page.url = 'https:\/\/kaiyue.netlify.app\/email\/';
+          this.page.url = 'https:\/\/kaiyue.netlify.app\/tutor\/strategy\/';
           
-            this.page.identifier = '\/email\/'
+            this.page.identifier = '\/tutor\/strategy\/'
           
         };
         (function() {

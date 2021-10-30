@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kaiyue.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,27 @@
     <item>
       <title>Publications</title>
       <link>https://kaiyue.netlify.app/tags/publications/</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/tags/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>North Carolina State University</title>
-      <link>https://kaiyue.netlify.app/tags/north-carolina-state-university/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Data Analysis</title>
+      <link>https://kaiyue.netlify.app/tags/data-analysis/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kaiyue.netlify.app/tags/north-carolina-state-university/</guid>
+      <guid>https://kaiyue.netlify.app/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://kaiyue.netlify.app/tags/python/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/tags/python/</guid>
       <description></description>
     </item>
     
