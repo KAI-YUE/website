@@ -319,6 +319,11 @@ Captial: $700.00000	 Profit: $259.25737 Interest Rate 0.370
 </code></pre><p>Surprisingly, you will have an interest rate of about 37%! How about tweaking the hyperparameter, i.e., the period? Let&rsquo;s change it to 7. This time we even raise the interest rate to  41%!</p>
 <h1 id="advanced-variants">Advanced Variants</h1>
 <p>I will tell you that this naive strategy can be extended to some variants. Play with the code, you can even raise the interest rate to 70% or higher! What? You are not aware of how to do that? Leave the comments here or directly ask me via email!</p>
+<hr>
+<h2 id="ghissueid-2">title: &ldquo;GitHub comments for a Hugo-based blog&rdquo;
+date: 2019-04-19T12:57:21+02:00
+tags: [hugo, web]
+GHissueID: 2</h2>
 
               
             </div>
@@ -397,73 +402,26 @@ Captial: $700.00000	 Profit: $259.25737 Interest Rate 0.370
 
       <div id="comments">
         
-          <script>
-    var id =  1 ;
-  
-    if (id)
-    {
-      let url = "https://github.com/KAI-YUE/kai-yue.github.io/issues/".concat(id);
-      let api_url = "https://api.github.com/KAI-YUE/kai-yue.github.io/issues/".concat(id, "/comments");
-      
-      var commentsDiv = document.getElementById("comments");
-  
-      let xhr = new XMLHttpRequest();
-      xhr.responseType = "json";
-      xhr.open("GET", api_url);
-      xhr.setRequestHeader("Accept", "application/vnd.github.v3.html+json");
-      xhr.send();
-  
-      xhr.onload = function()
-      {
-        if (xhr.status != 200)
-        {
-          let errorText = document.createElement("p");
-          errorText.innerHTML = "<i>Comments for this post yet are not opened yet (or you have GitHub scripts disabled).</i>";
-          commentsDiv.appendChild(errorText);
+          <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
         }
-        else
-        {
-          let comments = xhr.response;
-  
-          let mainHeader = document.createElement("h2");
-          mainHeader.innerHTML = "Comments: ".concat(comments.length);
-          commentsDiv.appendChild(mainHeader);
-  
-          let issueLink = document.createElement("p");
-          issueLink.innerHTML = "<i>You can leave a comment using this <a href='".concat(url, "'>GitHub issue</a>.</i>");
-          commentsDiv.appendChild(issueLink);
-          
-          comments.forEach(function(comment)
-          {
-              let commentContent = document.createElement("div");
-              commentContent.setAttribute('class', 'gh-comment')
-              commentContent.innerHTML = "".concat(
-                  "<div class='gh-header'>",
-                    "<img src='", comment.user.avatar_url, "' />",
-                    "<div style='margin:auto 0;'>",
-                      "<b><a class='gh-username' href='", comment.user.html_url, "'>", comment.user.login, "</a></b>",
-                      " commented at <em>", new Date(comment.created_at), "</em>",
-                    "</div>",
-                  "</div>",
-                  "<div class='gh-body'>",
-                    comment.body_html,
-                  "</div>"
-              );
-              commentsDiv.appendChild(commentContent);
-          });
-        }
-      };
-  
-      xhr.onerror = function()
-      {
-        let errorText = document.createElement("p");
-        errorText.innerHTML = "<i>Some error loading comments.</i>";
-        commentsDiv.appendChild(errorText);
-      };
-    }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "Kai's Homepage" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 </script>
-
-
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         
       </div>
 
