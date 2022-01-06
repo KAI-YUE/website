@@ -12,20 +12,20 @@
     
     
     <item>
+      <title>Biography</title>
+      <link>https://kaiyue.netlify.app/categories/biography/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/categories/biography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://kaiyue.netlify.app/categories/publications/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/categories/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/categories/biography/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/categories/biography/</guid>
       <description></description>
     </item>
     

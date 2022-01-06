@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaiyue.netlify.app/categories/biography/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiyue.netlify.app/2022/01/biography/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaiyue.netlify.app/categories/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -30,16 +40,6 @@
   <url>
     <loc>https://kaiyue.netlify.app/tags/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaiyue.netlify.app/categories/biography/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaiyue.netlify.app/2021/10/biography/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
