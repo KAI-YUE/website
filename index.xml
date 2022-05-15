@@ -27,14 +27,16 @@
       
       <guid>https://kaiyue.netlify.app/2022/01/research/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
-  &lt;p&gt;News
-Our recent work is accepted by ICML 2022!&lt;/p&gt;
+  &lt;p&gt;News&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Our recent work is accepted by ICML 2022!&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;2022&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai.&lt;br&gt;
-&amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;rdquo; ICML 2022.&lt;/p&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. &amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;rdquo; ICML 2022.&lt;/p&gt;
 
 
 &lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.03681&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
