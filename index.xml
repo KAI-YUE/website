@@ -6,17 +6,30 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/2022/01/biography/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <title>About Me</title>
+      <link>https://kaiyue.netlify.app/honor/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kaiyue.netlify.app/2022/01/biography/</guid>
+      <guid>https://kaiyue.netlify.app/honor/</guid>
+      <description>Education   PhD student 2021-current
+NC State University, Raleigh, NC, USA
+  B.E. in Electronic and Information Engineering, 2016-2020
+University of Science and Technology of China (USTC), Hefei, China
+  Honor  2022.07 ICML 2022 Participation Grant 2022.06 Summer Graduate Fellowship, NC State 2021.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.01 The Third Place, IYLFS 2019 Competition 2019.06 UCLA CSST Scholarship 2018.</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://kaiyue.netlify.app/2022/07/biography/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2022/07/biography/</guid>
       <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://people.engr.ncsu.edu/cwong9/index.html&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
     </item>
     
@@ -50,6 +63,12 @@
     paper
     &lt;/a&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Yue, Kai, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;rdquo; Under Review.
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;2021&lt;/p&gt;
@@ -89,19 +108,6 @@ Any comments here about investing are scams. This is only a technical tutorial.
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://kaiyue.netlify.app/honor/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/honor/</guid>
-      <description>Education   PhD student 2021-current
-NC State University, Raleigh, NC, USA
-  B.E. in Electronic and Information Engineering, 2016-2020
-University of Science and Technology of China (USTC), Hefei, China
-  Honor  2020.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.01 The Third Place, IYLFS 2019 Competition 2019.06 UCLA CSST Scholarship 2018.10 China National Scholarship 2018.09 Mr. Tang-Lixin’s Scholarship  Experience   2018.</description>
-    </item>
-    
-    <item>
       <title>Email</title>
       <link>https://kaiyue.netlify.app/email/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
@@ -116,7 +122,8 @@ University of Science and Technology of China (USTC), Hefei, China
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
-      <description>&lt;p&gt;Video demo under construction.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Presentations&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>
