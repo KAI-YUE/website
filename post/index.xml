@@ -34,6 +34,12 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;2022&lt;/p&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;rdquo; USENIX Security Symposium, 2023.&lt;/p&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;
 &lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. &amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;rdquo; ICML 2022.&lt;/p&gt;
 &lt;p&gt;
 
@@ -87,12 +93,6 @@
 &lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/Predictive-Coding-FL&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
     code
     &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Yue, Kai, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;rdquo; USENIX Security Symposium, 2023.&lt;/p&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;2021&lt;/p&gt;
