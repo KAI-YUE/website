@@ -2,35 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaiyue.netlify.app/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kaiyue.netlify.app/honor/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kaiyue.netlify.app/categories/biography/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/2022/07/biography/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/categories/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/post/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/tags/publications/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/categories/publications/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/2022/01/research/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaiyue.netlify.app/tags/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <loc>https://kaiyue.netlify.app/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaiyue.netlify.app/2021/10/activity/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
@@ -38,13 +14,22 @@
     <loc>https://kaiyue.netlify.app/tutor/strategy/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kaiyue.netlify.app/categories/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kaiyue.netlify.app/tags/data-analysis/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaiyue.netlify.app/post/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaiyue.netlify.app/tags/python/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaiyue.netlify.app/categories/python/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaiyue.netlify.app/tags/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaiyue.netlify.app/tutor/</loc>
