@@ -6,13 +6,13 @@
     <description>Recent content in Publications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://kaiyue.netlify.app/2022/01/research/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://kaiyue.netlify.app/2022/10/research/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kaiyue.netlify.app/2022/01/research/</guid>
+      <guid>https://kaiyue.netlify.app/2022/10/research/</guid>
       <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
   &lt;p&gt;&lt;p&gt;News&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -89,7 +89,7 @@
 &lt;li&gt;
 &lt;p&gt;2021&lt;/p&gt;
 &lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai.
-&amp;ldquo;Federated Learning via Plurality Vote.&amp;rdquo; Under Review.&lt;/p&gt;
+&amp;ldquo;Federated Learning via Plurality Vote.&amp;rdquo; Under review of minor revision, IEEE Transactions on Neural Networks and Learning Systems.&lt;/p&gt;
 
 
 &lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.02998&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;

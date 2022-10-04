@@ -6,7 +6,108 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biography</title>
+      <link>https://kaiyue.netlify.app/2022/10/biography/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2022/10/biography/</guid>
+      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://ncsu-cwwong.org/&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kaiyue.netlify.app/2022/10/research/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/2022/10/research/</guid>
+      <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
+  &lt;p&gt;&lt;p&gt;News&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Our recent work is accepted by USENIX Security Symposium 2023!&lt;/li&gt;
+&lt;li&gt;Our recent work is accepted by ICML 2022!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2022&lt;/p&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;rdquo; USENIX Security Symposium, 2023.&lt;/p&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. &amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;rdquo; ICML 2022.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.03681&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-cwwong.org/docs/2022_ICML_ntk-fl-poster.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    poster
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-cwwong.org/docs/2022_ICML_ntk-fl-slides.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    slides
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/07/data-heterogeneity-in-federated-learning/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    news
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://slideslive.com/38983411/neural-tangent-kernel-empowered-federated-learning?ref=search-presentations-neural&amp;#43;tangent&amp;#43;kernel&amp;#43;empow&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    presentation
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/ntk-fed&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    code
+    &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. &amp;ldquo;Communication-Efficient Federated Learning via Predictive Coding.&amp;rdquo; IEEE Journal of Selected Topics in Signal Processing (2022).&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2108.00918&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/02/federated-learning-in-wireless-devices/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    news
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://www.hackster.io/news/video-style-compression-brings-federated-learning-to-smartphones-other-bandwidth-limited-devices-66c5f8de8008&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    hackster.io
+    &lt;/a&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/Predictive-Coding-FL&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    code
+    &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2021&lt;/p&gt;
+&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai.
+&amp;ldquo;Federated Learning via Plurality Vote.&amp;rdquo; Under review of minor revision, IEEE Transactions on Neural Networks and Learning Systems.&lt;/p&gt;
+
+
+&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.02998&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
+    paper
+    &lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Activity</title>
       <link>https://kaiyue.netlify.app/2021/10/activity/</link>
