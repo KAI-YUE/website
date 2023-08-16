@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Me</title>
+      <link>https://kaiyue.netlify.app/honor/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyue.netlify.app/honor/</guid>
+      <description>Education   PhD student 2021-current
+NC State University, Raleigh, NC, USA
+  B.E. in Electronic and Information Engineering, 2016-2020
+University of Science and Technology of China (USTC), Hefei, China
+  Honor  2023.08 USENIX Security 2023 Student Grant 2023.04 Graduate Award, NC State 2022.07 ICML 2022 Student Grant 2022.06 Summer Graduate Fellowship, NC State 2021.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.</description>
+    </item>
+    
+    <item>
       <title>Biography</title>
       <link>https://kaiyue.netlify.app/2022/12/biography/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
@@ -117,19 +130,6 @@
     &lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://kaiyue.netlify.app/honor/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/honor/</guid>
-      <description>Education   PhD student 2021-current
-NC State University, Raleigh, NC, USA
-  B.E. in Electronic and Information Engineering, 2016-2020
-University of Science and Technology of China (USTC), Hefei, China
-  Honor  2023.08 USENIX Security 2023 Student Grant 2023.04 Graduate Award, NC State 2022.07 ICML 2022 Student Grant 2022.06 Summer Graduate Fellowship, NC State 2021.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.</description>
     </item>
     
     <item>
