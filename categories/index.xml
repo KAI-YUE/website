@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://kaiyue.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Biography</title>
 				<link>https://kaiyue.netlify.app/categories/biography/</link>
-				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/categories/biography/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Building Businesses</title>
+				<link>https://kaiyue.netlify.app/categories/building-businesses/</link>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/categories/building-businesses/</guid>
 				<description></description>
 			</item>
 			<item>

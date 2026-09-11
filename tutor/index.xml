@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://kaiyue.netlify.app/tutor/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Analyze Investment Strategies</title>
+				<title>Exploring Dollar-Cost Averaging with Python</title>
 				<link>https://kaiyue.netlify.app/tutor/strategy/</link>
 				<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/tutor/strategy/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Archive note: This tutorial was written in October 2021. Its dataset, examples, external data-download instructions, and reported results reflect that period.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&amp;rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this &lt;a href=&#34;https://www.youtube.com/watch?v=bBC-nXj3Ng4&#34;&gt;introduction&lt;/a&gt; helpful.&lt;/p&gt;&#xA;&lt;div class=&#34;alert warning &#34;&gt;&#xA;  &lt;p&gt;Any comments here about investing are scams. This is only a technical tutorial.&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;em&gt;Archive note: This tutorial was written in October 2021. Its dataset, examples, external data-download instructions, and reported results reflect that period.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Dollar-cost averaging (DCA) means investing a fixed amount at regular intervals, regardless of the asset’s price. This is the definition used by &lt;a href=&#34;https://www.investor.gov/introduction-investing/investing-basics/glossary/dollar-cost-averaging&#34;&gt;Investor.gov&lt;/a&gt;. In this tutorial, we use Python to explore how this approach performed over a historical Bitcoin price sample.&lt;/p&gt;&#xA;&lt;div class=&#34;alert warning &#34;&gt;&#xA;  &lt;p&gt;This is a historical coding exercise, not an investment recommendation. The results describe one sample period, not expected future returns.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Independent Developer &amp; Technical Advisor</title>
+				<title>Building Products, Understanding Customers</title>
 				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
-				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-				<description>&lt;p&gt;Building an indie game and advising on the architecture and engineering of an AI-agent platform for marketplace sellers.&lt;/p&gt;</description>
+				<description>&lt;p&gt;I’ve built a paid investment education community and now lead technical review and acceptance for an AI-agent platform serving marketplace sellers. My work starts with understanding what people need and taking responsibility for what gets delivered.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Remains Valuable When Answers Become Cheap?</title>
+				<link>https://kaiyue.netlify.app/writing/what-remains-valuable/</link>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/writing/what-remains-valuable/</guid>
+				<description>&lt;p&gt;I built an investment education audience on YouTube, grew it beyond 9,000 subscribers, and offered a private Telegram community at $30 a month. As AI became better at explaining concepts, I began questioning what I should continue to offer. That question now follows me into game development and engineering work for a merchant-agent platform.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Selected Research</title>
