@@ -1,151 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on </title>
-    <link>https://kaiyue.netlify.app/post/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/2022/12/biography/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://ncsu-wong.org/&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://kaiyue.netlify.app/2022/12/research/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2022/12/research/</guid>
-      <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
-  &lt;p&gt;&lt;p&gt;News&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;Our recent work is accepted by USENIX Security Symposium 2023!&lt;/li&gt;
-&lt;li&gt;Our recent work is accepted by ICML 2022!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;2023&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &lt;a href=&#34;https://rogattack.netlify.app&#34;&gt;&amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;quot;&lt;/a&gt; USENIX Security Symposium, 2023.&lt;/p&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2023_USENIX_ROG-attack_slides.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    slides
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/rog&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2022&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. &lt;a href=&#34;https://ntk-fl.netlify.app/&#34;&gt;&amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;quot;&lt;/a&gt; ICML 2022.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.03681&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2022_ICML_ntk-fl-poster.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    poster
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2022_ICML_ntk-fl-slides.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    slides
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/07/data-heterogeneity-in-federated-learning/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    news
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://slideslive.com/38983411/neural-tangent-kernel-empowered-federated-learning?ref=search-presentations-neural&amp;#43;tangent&amp;#43;kernel&amp;#43;empow&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    presentation
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/ntk-fed&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. &lt;a href=&#34;https://predfl.netlify.app&#34;&gt;&amp;ldquo;Communication-Efficient Federated Learning via Predictive Coding.&amp;quot;&lt;/a&gt; IEEE Journal of Selected Topics in Signal Processing (2022).&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2108.00918&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/02/federated-learning-in-wireless-devices/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    news
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://www.hackster.io/news/video-style-compression-brings-federated-learning-to-smartphones-other-bandwidth-limited-devices-66c5f8de8008&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    hackster.io
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/Predictive-Coding-FL&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai.
-&lt;a href=&#34;https://fedvote.netlify.app&#34;&gt;&amp;ldquo;Federated Learning via Plurality Vote.&amp;quot;&lt;/a&gt; IEEE Transactions on Neural Networks and Learning Systems, 2022.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.02998&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/fedvote&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Activity</title>
-      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kaiyue.netlify.app/tutor/strategy&#34;&gt;Analyze investment strategies with Python in 10 minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
-&lt;li&gt;More&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Demonstration Gallery</title>
-      <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
-      <description>&lt;p&gt;Presentations&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Kai Yue</title>
+		<link>https://kaiyue.netlify.app/post/</link>
+		<description>Recent content in Posts on Kai Yue</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://kaiyue.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Independent Developer &amp; Technical Advisor</title>
+				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
+				<description>&lt;p&gt;Building an indie game and advising on the architecture and engineering of an AI-agent platform for marketplace sellers.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Selected Research</title>
+				<link>https://kaiyue.netlify.app/2022/12/research/</link>
+				<pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2022/12/research/</guid>
+				<description>&lt;p&gt;Selected publications on distributed machine learning, efficiency, and privacy. &lt;a href=&#34;https://scholar.google.com/citations?user=5uWEGF8AAAAJ&amp;amp;hl=en&#34;&gt;Full publication list on Google Scholar&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Earlier Writing</title>
+				<link>https://kaiyue.netlify.app/2021/10/activity/</link>
+				<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+				<description>&lt;p&gt;An archive of early Python and data-analysis writing from 2021.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Presentations</title>
+				<link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
+				<description>&lt;p&gt;An archive of research presentations.&lt;/p&gt;&#xA;&lt;!-- https://recorder-v3.slideslive.com/#/share?share=69257&amp;s=543f2f94-080a-4917-ae8e-4efc9d8a1aef --&gt;</description>
+			</item>
+	</channel>
 </rss>

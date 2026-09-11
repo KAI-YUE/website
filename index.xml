@@ -1,184 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <link>https://kaiyue.netlify.app/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://kaiyue.netlify.app/honor/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/honor/</guid>
-      <description>Education   PhD student 2021-current
-NC State University, Raleigh, NC, USA
-  B.E. in Electronic and Information Engineering, 2016-2020
-University of Science and Technology of China (USTC), Hefei, China
-  Honor  2023.08 USENIX Security 2023 Student Grant 2023.04 Graduate Award, NC State 2022.07 ICML 2022 Student Grant 2022.06 Summer Graduate Fellowship, NC State 2021.07 Graduate Merit Award, NC State 2020.06 Honorable Title of Excellent Undergraduate Students, USTC 2019.</description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/2022/12/biography/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://ncsu-wong.org/&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://kaiyue.netlify.app/2022/12/research/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2022/12/research/</guid>
-      <description>&lt;div class=&#34;alert info no-icon &#34;&gt;
-  &lt;p&gt;&lt;p&gt;News&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;Our recent work is accepted by USENIX Security Symposium 2023!&lt;/li&gt;
-&lt;li&gt;Our recent work is accepted by ICML 2022!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;2023&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. &lt;a href=&#34;https://rogattack.netlify.app&#34;&gt;&amp;ldquo;Gradient Obfuscation Gives a False Sense of Security in Federated Learning.&amp;quot;&lt;/a&gt; USENIX Security Symposium, 2023.&lt;/p&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2206.04055&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2023_USENIX_ROG-attack_slides.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    slides
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/rog&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2022&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. &lt;a href=&#34;https://ntk-fl.netlify.app/&#34;&gt;&amp;ldquo;Neural Tangent Kernel Empowered Federated Learning.&amp;quot;&lt;/a&gt; ICML 2022.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.03681&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2022_ICML_ntk-fl-poster.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    poster
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://ncsu-wong.org/docs/2022_ICML_ntk-fl-slides.pdf&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    slides
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/07/data-heterogeneity-in-federated-learning/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    news
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://slideslive.com/38983411/neural-tangent-kernel-empowered-federated-learning?ref=search-presentations-neural&amp;#43;tangent&amp;#43;kernel&amp;#43;empow&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    presentation
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/ntk-fed&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. &lt;a href=&#34;https://predfl.netlify.app&#34;&gt;&amp;ldquo;Communication-Efficient Federated Learning via Predictive Coding.&amp;quot;&lt;/a&gt; IEEE Journal of Selected Topics in Signal Processing (2022).&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2108.00918&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://news.ncsu.edu/2022/02/federated-learning-in-wireless-devices/&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    news
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://www.hackster.io/news/video-style-compression-brings-federated-learning-to-smartphones-other-bandwidth-limited-devices-66c5f8de8008&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    hackster.io
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/Predictive-Coding-FL&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai.
-&lt;a href=&#34;https://fedvote.netlify.app&#34;&gt;&amp;ldquo;Federated Learning via Plurality Vote.&amp;quot;&lt;/a&gt; IEEE Transactions on Neural Networks and Learning Systems, 2022.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://arxiv.org/abs/2110.02998&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    paper
-    &lt;/a&gt;
-
-
-&lt;a class=&#34;tag tag--primary tag--small&#34; href=&#34;https://github.com/KAI-YUE/fedvote&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;
-    code
-    &lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Activity</title>
-      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kaiyue.netlify.app/tutor/strategy&#34;&gt;Analyze investment strategies with Python in 10 minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
-&lt;li&gt;More&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Analyze Investment Strategies</title>
-      <link>https://kaiyue.netlify.app/tutor/strategy/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/tutor/strategy/</guid>
-      <description>Introduction In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&amp;rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this introduction helpful.
-Any comments here about investing are scams. This is only a technical tutorial.
- I will assume you already have some basic knowledge of Python, which is a great tool for analyzing data.</description>
-    </item>
-    
-    <item>
-      <title>Email</title>
-      <link>https://kaiyue.netlify.app/email/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/email/</guid>
-      <description>Contact kyue@ncsu.edu</description>
-    </item>
-    
-    <item>
-      <title>Demonstration Gallery</title>
-      <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
-      <description>&lt;p&gt;Presentations&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Kai Yue</title>
+		<link>https://kaiyue.netlify.app/</link>
+		<description>Recent content on Kai Yue</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About Me</title>
+				<link>https://kaiyue.netlify.app/honor/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/honor/</guid>
+				<description>&lt;h1 id=&#34;current-work&#34;&gt;Current Work&lt;/h1&gt;&#xA;&lt;h2 id=&#34;technical-advisor--ai-systems--engineering&#34;&gt;Technical Advisor — AI Systems &amp;amp; Engineering&lt;/h2&gt;&#xA;&lt;p&gt;Technical oversight for a platform that uses AI agents to help marketplace sellers manage their operations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Evaluate engineering vendors and review proposed system architecture against product requirements.&lt;/li&gt;&#xA;&lt;li&gt;Review pull requests and external engineering teams’ implementations for reliability, security, maintainability, and alignment with the intended agent architecture.&lt;/li&gt;&#xA;&lt;li&gt;Assess deliveries against acceptance criteria and identify issues to address before production deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;independent-game-developer&#34;&gt;Independent Game Developer&lt;/h2&gt;&#xA;&lt;p&gt;Developing an indie game as a solo developer, using agent-assisted workflows across the development process.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://kaiyue.netlify.app/email/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/email/</guid>
+				<description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;For technical collaborations and early-stage opportunities: &lt;a href=&#34;mailto:kyue@ncsu.edu&#34;&gt;kyue@ncsu.edu&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/KAI-YUE&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Independent Developer &amp; Technical Advisor</title>
+				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
+				<description>&lt;p&gt;Building an indie game and advising on the architecture and engineering of an AI-agent platform for marketplace sellers.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Selected Research</title>
+				<link>https://kaiyue.netlify.app/2022/12/research/</link>
+				<pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2022/12/research/</guid>
+				<description>&lt;p&gt;Selected publications on distributed machine learning, efficiency, and privacy. &lt;a href=&#34;https://scholar.google.com/citations?user=5uWEGF8AAAAJ&amp;amp;hl=en&#34;&gt;Full publication list on Google Scholar&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Analyze Investment Strategies</title>
+				<link>https://kaiyue.netlify.app/tutor/strategy/</link>
+				<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/tutor/strategy/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Archive note: This tutorial was written in October 2021. Its dataset, examples, external data-download instructions, and reported results reflect that period.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don&amp;rsquo;t know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this &lt;a href=&#34;https://www.youtube.com/watch?v=bBC-nXj3Ng4&#34;&gt;introduction&lt;/a&gt; helpful.&lt;/p&gt;&#xA;&lt;div class=&#34;alert warning &#34;&gt;&#xA;  &lt;p&gt;Any comments here about investing are scams. This is only a technical tutorial.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Earlier Writing</title>
+				<link>https://kaiyue.netlify.app/2021/10/activity/</link>
+				<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+				<description>&lt;p&gt;An archive of early Python and data-analysis writing from 2021.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Presentations</title>
+				<link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
+				<description>&lt;p&gt;An archive of research presentations.&lt;/p&gt;&#xA;&lt;!-- https://recorder-v3.slideslive.com/#/share?share=69257&amp;s=543f2f94-080a-4917-ae8e-4efc9d8a1aef --&gt;</description>
+			</item>
+	</channel>
 </rss>

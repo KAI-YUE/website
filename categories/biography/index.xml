@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Biography on </title>
-    <link>https://kaiyue.netlify.app/categories/biography/</link>
-    <description>Recent content in Biography on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/categories/biography/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Biography</title>
-      <link>https://kaiyue.netlify.app/2022/12/biography/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-      <description>&lt;p&gt;I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. &lt;a href=&#34;https://ncsu-wong.org/&#34;&gt;Chau-Wai Wong&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.ece.ncsu.edu/people/hdai/&#34;&gt;Huaiyu Dai&lt;/a&gt;, focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Biography on Kai Yue</title>
+		<link>https://kaiyue.netlify.app/categories/biography/</link>
+		<description>Recent content in Biography on Kai Yue</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://kaiyue.netlify.app/categories/biography/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Independent Developer &amp; Technical Advisor</title>
+				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
+				<description>&lt;p&gt;Building an indie game and advising on the architecture and engineering of an AI-agent platform for marketplace sellers.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

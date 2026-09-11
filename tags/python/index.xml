@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Python on </title>
-    <link>https://kaiyue.netlify.app/tags/python/</link>
-    <description>Recent content in Python on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kaiyue.netlify.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Activity</title>
-      <link>https://kaiyue.netlify.app/2021/10/activity/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kaiyue.netlify.app/tutor/strategy&#34;&gt;Analyze investment strategies with Python in 10 minutes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Automatically Tracking Coinbase Prices with Python&lt;/li&gt;
-&lt;li&gt;More&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Demonstration Gallery</title>
-      <link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
-      <description>&lt;p&gt;Presentations&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Python on Kai Yue</title>
+		<link>https://kaiyue.netlify.app/tags/python/</link>
+		<description>Recent content in Python on Kai Yue</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://kaiyue.netlify.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Earlier Writing</title>
+				<link>https://kaiyue.netlify.app/2021/10/activity/</link>
+				<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2021/10/activity/</guid>
+				<description>&lt;p&gt;An archive of early Python and data-analysis writing from 2021.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Presentations</title>
+				<link>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>https://kaiyue.netlify.app/2020/09/demonstration-gallery/</guid>
+				<description>&lt;p&gt;An archive of research presentations.&lt;/p&gt;&#xA;&lt;!-- https://recorder-v3.slideslive.com/#/share?share=69257&amp;s=543f2f94-080a-4917-ae8e-4efc9d8a1aef --&gt;</description>
+			</item>
+	</channel>
 </rss>
