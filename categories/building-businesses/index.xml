@@ -14,11 +14,11 @@
 		
 			<atom:link href="https://kaiyue.netlify.app/categories/building-businesses/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>What Remains Valuable When Answers Become Cheap?</title>
+				<title>Math May Be Solved. Coding May Be Solved. But Not Philosophy.</title>
 				<link>https://kaiyue.netlify.app/writing/what-remains-valuable/</link>
 				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/writing/what-remains-valuable/</guid>
-				<description>&lt;h1 id=&#34;what-remains-valuable-when-answers-become-cheap&#34;&gt;What Remains Valuable When Answers Become Cheap?&lt;/h1&gt;&#xA;&lt;p&gt;AI is making answers cheap.&lt;/p&gt;&#xA;&lt;p&gt;Code that once took hours can appear in minutes. Research that once required days of searching can begin with a conversation. A prototype that once needed a small team can increasingly be built by one person.&lt;/p&gt;&#xA;&lt;p&gt;For a while, this made me wonder what happens to the value of technical skill itself.&lt;/p&gt;&#xA;&lt;p&gt;If implementation keeps getting cheaper, what remains valuable?&lt;/p&gt;</description>
+				<description>&lt;p&gt;A few years ago, I worried that AI might solve coding.&lt;/p&gt;&#xA;&lt;p&gt;Now I think that question was too small.&lt;/p&gt;&#xA;&lt;p&gt;Suppose AI could solve most mathematical and programming problems we put before it. Work that once required years of technical training could become available on demand.&lt;/p&gt;&#xA;&lt;p&gt;We would still have to decide which problems deserve attention.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
