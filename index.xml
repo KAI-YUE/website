@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -18,21 +18,21 @@
 				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
 				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-				<description>&lt;p&gt;I’ve built a paid investment education community and now lead technical review and acceptance for Jobdream, whose AI-agent platform serves marketplace sellers. My work starts with understanding what people need and taking responsibility for what gets delivered.&lt;/p&gt;</description>
+				<description>&lt;p&gt;I design and implement agentic systems for Jobdream’s marketplace-seller platform and am building an agentic game creation and publishing platform. Previously, I built a paid investment education community. My work spans agent architecture, implementation, and product validation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>What Remains Valuable When Answers Become Cheap?</title>
 				<link>https://kaiyue.netlify.app/writing/what-remains-valuable/</link>
 				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/writing/what-remains-valuable/</guid>
-				<description>&lt;p&gt;I built an investment education audience on YouTube, grew it beyond 9,000 subscribers, and offered a private Telegram community at $30 a month. As AI became better at explaining concepts, I began questioning what I should continue to offer. That question now follows me into game development and engineering work for a merchant-agent platform.&lt;/p&gt;</description>
+				<description>&lt;p&gt;I built an investment education audience on YouTube, grew it beyond 9,000 subscribers, and offered a private Telegram community at $30 a month. As AI became better at explaining concepts, I began questioning what I should continue to offer. That question now follows me into building a game creation and publishing platform and engineering work for a merchant-agent platform.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About Me</title>
 				<link>https://kaiyue.netlify.app/honor/</link>
 				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/honor/</guid>
-				<description>&lt;h1 id=&#34;current-work&#34;&gt;Current Work&lt;/h1&gt;&#xA;&lt;h2 id=&#34;technical-lead--ai-architecture--engineering-delivery&#34;&gt;Technical Lead — AI Architecture &amp;amp; Engineering Delivery&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Jobdream · Consulting engagement&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Guide technical direction for Jobdream’s platform, which uses AI agents to help small marketplace businesses manage their operations, working with external engineering teams.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Evaluate engineering vendors and review proposed system architecture against product requirements.&lt;/li&gt;&#xA;&lt;li&gt;Review pull requests and external engineering teams’ implementations for reliability, security, maintainability, and alignment with the intended agent architecture.&lt;/li&gt;&#xA;&lt;li&gt;Make technical acceptance decisions on outsourced deliveries and identify issues to address before production deployment. The CEO retains final business approval.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;founder--investment-education-community&#34;&gt;Founder — Investment Education Community&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built a YouTube audience that peaked above 9,000 subscribers and remains above 7,500 as of September 2026.&lt;/li&gt;&#xA;&lt;li&gt;Offered a private Telegram community at $30/month, sharing investment perspectives and teaching members to use code to explore investment questions.&lt;/li&gt;&#xA;&lt;li&gt;Reduced activity as I reconsidered the value of the offering in light of increasingly accessible AI tutoring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaiyue.netlify.app/writing/what-remains-valuable/&#34;&gt;What this experience taught me about building&lt;/a&gt;&lt;/p&gt;</description>
+				<description>&lt;h1 id=&#34;current-work&#34;&gt;Current Work&lt;/h1&gt;&#xA;&lt;h2 id=&#34;technical-lead--agent-architecture--harness-design&#34;&gt;Technical Lead — Agent Architecture &amp;amp; Harness Design&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Jobdream&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jobdream’s platform uses AI agents to help small marketplace businesses manage their operations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Own agent architecture, harness design, and agentic implementation; the engineering team integrates the components into the product.&lt;/li&gt;&#xA;&lt;li&gt;Validate workflows with the team using an Amazon seller account for product testing; translate findings into implementation improvements and technical acceptance decisions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;independent-builder--agentic-game-platform&#34;&gt;Independent Builder — Agentic Game Platform&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Game creation and publishing platform&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
