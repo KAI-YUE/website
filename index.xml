@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://kaiyue.netlify.app/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -18,7 +18,7 @@
 				<link>https://kaiyue.netlify.app/2022/12/biography/</link>
 				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/2022/12/biography/</guid>
-				<description>&lt;p&gt;Technical builder working on agentic systems and products. Currently leading agent architecture and harness design for Jobdream and independently building an agentic platform that lets users create and publish games through vibe coding. Previously built ML systems in academic research and grew an investment-education YouTube audience to a peak of 9,000+ subscribers. Interested in founding or joining a small, unusually strong team building AI-native products.&lt;/p&gt;</description>
+				<description>&lt;p&gt;ML researcher turned AI product engineer and technical lead, working across agent workflows, product architecture, and engineering delivery. At Jobdream, I translate merchant operations into agent systems and oversee implementation quality. I’m also building an agentic game creation and publishing platform. Previously, I built an investment-education membership business reaching approximately 300–400 paying members and an estimated $9,000–$12,000 in peak monthly recurring revenue.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Math May Be Solved. Coding May Be Solved. But Not Philosophy.</title>
@@ -32,7 +32,7 @@
 				<link>https://kaiyue.netlify.app/honor/</link>
 				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://kaiyue.netlify.app/honor/</guid>
-				<description>&lt;h1 id=&#34;current-work&#34;&gt;Current Work&lt;/h1&gt;&#xA;&lt;h2 id=&#34;technical-lead--agent-architecture--harness-design&#34;&gt;Technical Lead — Agent Architecture &amp;amp; Harness Design&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Jobdream&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jobdream’s platform uses AI agents to help small marketplace businesses manage their operations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Own agent architecture, harness design, and agentic implementation; the engineering team integrates the components into the product.&lt;/li&gt;&#xA;&lt;li&gt;Validate workflows with the team using an Amazon seller account for product testing; translate findings into implementation improvements and technical acceptance decisions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;independent-builder--agentic-game-platform&#34;&gt;Independent Builder — Agentic Game Platform&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Game creation and publishing platform&lt;/em&gt;&lt;/p&gt;</description>
+				<description>&lt;h1 id=&#34;current-work&#34;&gt;Current Work&lt;/h1&gt;&#xA;&lt;h2 id=&#34;technical-lead--agent-architecture--engineering-delivery&#34;&gt;Technical Lead — Agent Architecture &amp;amp; Engineering Delivery&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Jobdream · 2025–Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jobdream is a private company founded in 2020 that serves professionals and businesses through AI education and applied agent systems. My work focuses on B2B merchant operations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Translate merchant requirements into modular agent workflows, including input parsing, low-stock monitoring, and scheduled freshness checks.&lt;/li&gt;&#xA;&lt;li&gt;Test workflows hands-on with the team; use findings to refine system behavior, improve usability for nontechnical owners, and assess readiness for delivery.&lt;/li&gt;&#xA;&lt;li&gt;Provide technical oversight for outsourced teams of one to several engineers; evaluate vendors and delivery scope, review architecture and code, and make technical acceptance decisions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;independent-builder--agentic-game-platform&#34;&gt;Independent Builder — Agentic Game Platform&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Game creation and publishing platform&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
